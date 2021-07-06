@@ -1,4 +1,0 @@
-- name: Minify Action
-  # You may pin to the exact commit or the version.
-  # uses: anthonyftwang/minify-action@8836472a379059d84618461ff542cba0a1cbd615
-  uses: anthonyftwang/minify-action@v1.0.1
